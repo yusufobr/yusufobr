@@ -1,3 +1,5 @@
-# Hi there
+## Hi there
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yusufobr&show_icons=true&theme=tokyonight)
+# GitHub Status : 
+
+![](https://github-readme-stats.vercel.app/api?username=yusufobr&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
