@@ -40,7 +40,10 @@ Full Stack Developer
 
 ### Badges
 
+[![](https://visitcount.itsvg.in/api?id=yusufobr&label=Profile%20Views&color=6&icon=6&pretty=false)](https://visitcount.itsvg.in)
+
 <b>My GitHub Stats</b>
+
 
 <a href="http://www.github.com/yusufobr"><img src="https://github-readme-stats.vercel.app/api?username=yusufobr&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="yusufobr's GitHub stats" /></a>
 
