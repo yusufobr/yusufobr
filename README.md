@@ -1,13 +1,13 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=4000&pause=1000&color=70A5FD&width=1508&height=80&lines=Hello+There%2C+I'm+Youssef+OUBARI;I'm+Full-Stack+Software+Developer+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=4000&pause=1000&color=70A5FD&width=1508&height=80&lines=Hello+There%2C+I'm+Youssef+OUBARI;I'm+Front-End+Web+Developer+)](https://git.io/typing-svg)
 ======================================================================================================================================
 
-Full Stack Developer
+Front End Developer
 --------------------
 
 * 🌍  I'm based in Morocco
-* 🖥️  See my portfolio at [My Portfolio](http://https://yusufobr.github.io/my-protfolio-mv/)
+* 🖥️  See my portfolio at [My Portfolio](https://yusufobr.github.io/my-protfolio-mv/)
 * ✉️  You can contact me at [youssef.oubaari@gmail.com](mailto:youssef.oubaari@gmail.com)
-* 🧠  I'm learning Next.js React.js Redux
+* 🧠  I'm learning Next.js & Ruby On Rails
 * 🤝  I'm open to collaborating on New Projects
 -------------------------------------------------------------
 
