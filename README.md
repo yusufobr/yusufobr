@@ -47,7 +47,7 @@ Front End Developer
 
 [![](https://visitcount.itsvg.in/api?id=yusufobr&label=Profile%20Views&color=6&icon=6&pretty=false)](https://visitcount.itsvg.in)
 
-<b>My GitHub Stats</b>
+<b>My GitHub Stats</b><br/>
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yusufobr&theme=prussian" width="650" height="auto" />
 
