@@ -58,5 +58,7 @@ Front End Developer
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yusufobr&theme=prussian" width="300" height="auto" style="display: inline;" />
 
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yusufobr&theme=prussian&utcOffset=+1" width="300" height="auto" style="display: inline;" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yusufobr&show_icons=true&locale=en&layout=compact&theme=tokyonight"/>
 </div>
 <hr>
