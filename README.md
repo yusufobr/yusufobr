@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=4000&pause=1000&color=70A5FD&width=1508&height=80&lines=Hello+There%2C+I'm+Youssef+OUBARI;I'm+Front-End+Web+Developer+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=4000&pause=1000&color=70A5FD&width=1508&height=80&lines=Hello+There%2C+I'm+Youssef+OUBARI;Front-End+Web+Developer+)](https://git.io/typing-svg)
 ======================================================================================================================================
 
 Front End Developer
